@@ -10,7 +10,7 @@ I'm a computer science student passionate about building practical solutions, ex
 - 💻 Interested in Data Science, AI/ML and Software Development.
 - 🌱 Exploring Machine Learning, Data Analytics and Web Technologies.
 - 🧠 Practicing problem-solving and Data Structures & Algorithms.
-- 🏆 SSN Merit Scholarship Recipient – Department Rank 1.
+- 🏆 Department Rank Holder.
 - 🤝 Always excited to collaborate, learn and build something meaningful.
 
 ## 🛠️ Technical Skills
