@@ -1,6 +1,6 @@
 # Hi, I'm Rasika! 👋
 
-🎓 M.Tech Integrated CSE Student at SSN College of Engineering
+🎓Pursuing M.Tech CSE at SSNCE
 
 💻 Passionate about Technology, Programming and Problem Solving.
 
